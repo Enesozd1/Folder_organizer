@@ -31,7 +31,8 @@ You **do not need to edit Python code** to change how the script works.
   "dry_run": true, //True -> No files are moved, actions are only logged (safe preview mode) | False -> Files are actually moved into organized folders
   "log_file": "organizer.log", //Name of the log file where all actions and errors are recorded, you can name this freely
   "log_level": "INFO"
-} 
+}
+```  
 
 Check the log file
 After running, open the log file defined in config.json:
