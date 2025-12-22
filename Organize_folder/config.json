@@ -1,0 +1,10 @@
+{
+    "target_path": "C:/Users/examplepath",
+    "extensions": [".txt"],
+    "processed_suffix": "_processed",
+    "recursive": false,
+    "dry_run": false,
+    "log_file": "day8.log",
+    "log_level": "INFO"
+
+}
