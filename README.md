@@ -15,7 +15,7 @@ Open a terminal in the project directory
 Make sure you are inside the folder containing main.py.
 
 Run "python main.py" If that doesn’t work, try: python3 main.py
-# On macOS / Linux
+### On macOS / Linux
 python3 main.py
 (Some systems still support python, but python3 is recommended.)
 
